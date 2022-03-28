@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Williamsosita02
+- 👋 Hi, I’m Williamsosita
 - 👀 I’m interested in being a full stack developer.
 - 🌱 I’m currently learning Html, CSS and javascript.
 - 💞️ I’m looking to collaborate on learning Javascript.
